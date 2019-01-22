@@ -564,3 +564,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.22-08.37.05:028][775]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.01.22-08.37.05:028][775]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
 [2019.01.22-08.37.22:536][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.22-08.47.01:305][996]SourceControl: Source control is disabled
+[2019.01.22-08.47.01:305][996]LogSlate: Window 'Source Control Login' being destroyed
+[2019.01.22-08.47.09:911][966]LogSlate: Took 0.019999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.22-08.47.29:014][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-08.47.30:552][207]MapCheck: New page: Map Check
+[2019.01.22-08.47.30:558][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-08.47.30:563][207]LightingResults: New page: Lighting Build - 22 janv. 2019 10:47:30
+[2019.01.22-08.47.30:952][207]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.22-08.47.31:167][207]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.22-08.47.31:180][207]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.22-08.47.31:690][207]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.22-08.47.31:690][207]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9096
+[2019.01.22-08.47.34:437][207]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.22-08.47.34:437][207]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.22-08.47.34:438][207]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.22-08.47.34:438][207]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.22-08.47.34:438][207]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.22-08.47.34:438][207]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.22-08.47.34:612][207]LogEditorBuildUtils: Build time 0:04
+[2019.01.22-08.47.36:864][361]Job is a success!
+[2019.01.22-08.47.36:882][363]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.22-08.47.36:884][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-08.47.36:921][363]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2019.01.22-08.47.36:921][363]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.22-08.47.36:921][363]LogVolumetricLightmapImport:      BrickData 1065x5x5 = 0.9Mb
+[2019.01.22-08.47.36:921][363]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.22-08.47.36:921][363]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2019.01.22-08.47.36:921][363]LogVolumetricLightmapImport:          1: 7.5% covering 25.0% of volume
+[2019.01.22-08.47.36:921][363]LogVolumetricLightmapImport:          2: 92.0% covering 4.8% of volume
+[2019.01.22-08.47.37:226][363]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.01.22-08.47.37:226][363]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.01.22-08.47.37:226][363]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.01.22-08.47.37:226][363]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.01.22-08.47.37:240][363]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.01.22-08.47.37:240][363]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2019.01.22-08.47.37:271][363]Lightmass on LAPTOP-PMDTOSRT: 1.84 sec total, 187 ms importing, 29 ms setup, 440 ms photons, 1.15 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 7.93 sec total, 379 ms processing.
+[2019.01.22-08.47.37:315][363]LogStaticLightingSystem: Illumination: 6.73 sec (303 ms encoding lightmaps, 6 ms encoding shadowmaps)
+[2019.01.22-08.47.37:315][363]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.22-08.47.37:315][363]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.22-08.47.37:443][363]DumpUnbuiltLightIteractions
+[2019.01.22-08.47.37:443][363]Lights with unbuilt interactions: 0
+[2019.01.22-08.47.37:443][363]
+[2019.01.22-08.47.37:443][363]Primitives with unbuilt interactions: 0
+[2019.01.22-08.47.37:449][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-08.47.37:535][364]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.22-08.47.37:535][364]MapCheck: New page: Untitled_1 - 22 janv. 2019 10:47:37
+[2019.01.22-08.47.37:536][364]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,852ms to complete.
+[2019.01.22-08.47.40:376][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-08.48.19:990][689]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.22-08.48.20:002][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.22-08.48.20:037][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mainLevel" FILE="C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Content/mainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-08.48.20:176][689]LogSavePackage: Moving 'C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Saved/mainLevel19B7C333406897044AD9C38BC9A4DFD8.tmp' to 'C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Content/mainLevel.umap'
+[2019.01.22-08.48.20:206][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mainLevel_BuiltData" FILE="C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Content/mainLevel_BuiltData.uasset" SILENT=true
+[2019.01.22-08.48.20:227][689]LogSavePackage: Moving 'C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Saved/mainLevel_BuiltDataCBA5533D435637E3A4D04FBEA5ED391D.tmp' to 'C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Content/mainLevel_BuiltData.uasset'
+[2019.01.22-08.48.20:237][689]LogFileHelpers: Saving map 'mainLevel' took 0.241
+[2019.01.22-08.48.20:321][695]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.22-08.48.56:470][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.22-08.48.56:978][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mainLevel" FILE="C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Content/mainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.22-08.48.57:099][550]LogSavePackage: Moving 'C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Saved/mainLevelF954988442C6EE2DAFF390B59A8181F3.tmp' to 'C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Content/mainLevel.umap'
+[2019.01.22-08.48.57:113][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mainLevel_BuiltData" FILE="C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Content/mainLevel_BuiltData.uasset" SILENT=true
+[2019.01.22-08.48.57:136][550]LogSavePackage: Moving 'C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Saved/mainLevel_BuiltData727E5F9740A89FC73BDAED8AA5F6BF7B.tmp' to 'C:/Users/Grégoire/Desktop/Ludus/Défit_Projet/Github/GundamGolf/GundamGolf/Content/mainLevel_BuiltData.uasset'
+[2019.01.22-08.48.58:302][685]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.050 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.22-08.48.58:935][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
